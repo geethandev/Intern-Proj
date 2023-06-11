@@ -29,15 +29,15 @@ pip install -r requirements.txt
 '''
 
 
-3. Prepare your dataset by organizing the images into appropriate directories. Create two folders: "With Mask" and "Without Mask". Place the corresponding images in their respective folders.
+- Prepare your dataset by organizing the images into appropriate directories. Create two folders: "With Mask" and "Without Mask". Place the corresponding images in their respective folders.
 
-4. Train the face mask identification model:
-
-
-5. Once the training is complete, you can use the trained model for face mask identification:
+- Train the face mask identification model
 
 
-6. The output will indicate whether the person in the image is wearing a face mask or not.
+- Once the training is complete, you can use the trained model for face mask identification:
+
+
+- The output will indicate whether the person in the image is wearing a face mask or not.
 
 ## Results
 
